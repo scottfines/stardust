@@ -21,8 +21,8 @@
 title: Stardust
 email: scottfines@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A distributed, resource-constrained database
-baseurl: "/pages" # the subpath of your site, e.g. /blog
+  A globally-distributed, resource-constrained database
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scottfines.github.io/stardust/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
