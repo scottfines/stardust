@@ -27,9 +27,9 @@ description: A globally-distributed, resource-constrained database.
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
-# plugins:
-#  - jekyll-feed
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
