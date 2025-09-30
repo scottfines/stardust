@@ -21,7 +21,7 @@
 title: Stardust
 email: scottfines@gmail.com
 description: A globally-distributed, resource-constrained database.
-# baseurl: "/stardust" # the subpath of your site, e.g. /blog
+baseurl: "/stardust" # the subpath of your site, e.g. /blog
 # url: "https://scottfines.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
